@@ -4,4 +4,4 @@ My name is Hao Yang, and I am an undergradute at NTU, studying Chemical Engineer
 
 My main interest is in data analytics, machine learning and applied econometrics.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haoyangx2&theme=" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haoyangx2" />
